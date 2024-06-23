@@ -88,7 +88,7 @@ location / {
 vim /usr/local/php/etc/php.ini
 
 搜索disable_function
-删除proc_开头的所有函数
+删除proc_开头的所有函数 putenv 　　
 ````
 
 #### 出现500错误
